@@ -1,1 +1,2 @@
-My Firs readme
+My First readme
+Software engineer in the making...
